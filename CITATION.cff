@@ -9,6 +9,10 @@ family-name: Alinejadtabrizi
 given-name: Tahereh (Nasim)
 orcid: 0000-0002-8526-697X
 affiliation: Monash University
+family-name: Wagner
+given-name: Hayley
+orcid: 0009-0004-6416-2452
+affiliation: University of Southern Queensland
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
