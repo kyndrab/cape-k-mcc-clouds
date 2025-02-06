@@ -33,5 +33,9 @@ authors:
     given-name: Abhishek
     orcid: 0009-0005-4332-4456
     affiliation: Monash University, Melbourne
+  - family-name: Buglione
+    given-name: Kyndra
+    orcid: 0009-0007-9643-7715
+    affiliation: University of Washington
 title: "CAPE-k MCC Clouds Analysis"
 abstract: "A set of analysis workflows from the MCC Clouds project at the CAPE-k student workshop."
