@@ -1,16 +1,15 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="https://github.com/ARM-Development/cape-k-student-workshop-2025/blob/main/images/cape-k-sticker.png?raw=true" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Cape-K MCC Clouds - Meteorology Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+We are interested in the meteorology of CCN clouds (open and closed) over the Southern Ocean, with data taken from Cape-K. 
 
 ## Authors
 

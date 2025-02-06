@@ -1,23 +1,37 @@
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
-family-name: Tomasiuk
-given-name: Emily
-orcid: 0009-0009-9852-2811
-affiliation: University of Melbourne
-family-name: Alinejadtabrizi
-given-name: Tahereh (Nasim)
-orcid: 0000-0002-8526-697X
-affiliation: Monash University
-family-name: Wagner
-given-name: Hayley
-orcid: 0009-0004-6416-2452
-affiliation: University of Southern Queensland
-  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
-title: "Cookbook Template"
-abstract: "A sample cookbook description."
-family name: Binu
-given name: Britty
-orcid: 0009-0005-4205-6808
-affiliation: University of Melbourne 
+  - family-names: Alinejadtabrizi
+    given-names: Tahereh (Nasim)
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-8526-697X
+    affiliation: Monash University
+  - family-name: Tomasiuk
+    given-name: Emily
+    orcid: 0009-0009-9852-2811
+    affiliation: University of Melbourne
+  - family-name: Doedens
+    given-name: Carl
+    orcid: 0009-0003-3122-3012
+    affiliation: University of Melbourne
+    family-name: Alinejadtabrizi
+  - given-name: Tahereh (Nasim)
+    orcid: 0000-0002-8526-697X
+    affiliation: Monash University
+  - family-name: Wagner
+    given-name: Hayley
+    orcid: 0009-0004-6416-2452
+    affiliation: University of Southern Queensland
+  - family name: Binu
+    given name: Britty
+    orcid: 0009-0005-4205-6808
+    affiliation: University of Melbourne 
+  - family-name: Pei
+    given-name: Zhangcheng
+    orcid: 0000-0002-6871-3918
+    affiliation: University of Tasmania
+  - family-name: Kumar
+    given-name: Abhishek
+    orcid: 0009-0005-4332-4456
+    affiliation: Monash University, Melbourne
+title: "CAPE-k MCC Clouds Analysis"
+abstract: "A set of analysis workflows from the MCC Clouds project at the CAPE-k student workshop."
